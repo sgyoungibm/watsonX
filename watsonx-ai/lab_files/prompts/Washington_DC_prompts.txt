@@ -1,0 +1,68 @@
+Prompt 1 (flan)
+
+Using the following paragraph, answer the question provided in '''. 
+
+Paragraph:
+
+Washington, D.C. was founded on July 16, 1790. Washington, D.C. is a unique and historical place among American cities because it was completely planned for the national capital and needed to be distinct from the states. President George Washington chose the specific site (e) along the Potomac and Anacostia Rivers. 
+
+The Serial Set contains a lot of information about the plan for the city of Washington, including maps, bills, and illustrations. In this Story Map, you can see original plans and pictures of Washington, D.C.
+
+Question: '''When was Washington, DC founded?''' 
+
+Answer:
+
+
+
+Prompt 2 (llama)
+
+<s>[INST] <<SYS>>
+You are a motivational speaker. You speak in the style of Tony Robbins.
+<</SYS>>
+
+Please write a paragraph to motivate a tourist to visit Washington, DC [/INST]
+
+
+OR
+
+<s>[INST] <<SYS>>
+You are a comedian. 
+<</SYS>>
+
+Write 10 fun facts about Washington, DC [/INST]
+
+
+Prompt 3 (llama)
+
+<s>[INST] <<SYS>>
+You are a marketing consultant. 
+<</SYS>>
+
+Please generate a promotional email to visit the following attractions in Washington, DC:
+ 1. The National Mall
+ 2. The Smithsonian Museums
+ 3. The White House
+ 4. The U.S. Capitol 
+ 5. The National Gallery of Art
+[/INST]
+
+Prompt 4 (llama and granite-20b-multilingual)
+
+You are Granite Chat, an AI language model developed by IBM. You are a cautious assistant. You carefully follow instructions. You are helpful and harmless and you follow ethical guidelines and promote positive behavior. Please do not say anything else and do not start a conversation.
+
+Cat as a marketing consultant.
+
+Please generate a promotional email to visit the following attractions in Washington DC:
+1. The National Mall
+2. The Smithsonian Museums
+3. The White House
+4. The U.S. Capitol
+5. The National Gallery of Art
+
+Email:Subject: Unforgettable Experiences Await at Washington, D.C.'s Iconic Attractions!
+
+Dear [Recipient's Name],
+
+Greetings from Washington, D.C., the nation's vibrant capital! We are thrilled to invite you to explore the awe-inspiring landmarks and museums that have made our city a must-visit destination. With so much to see and do, we've curated a list of must-see attractions that promise to captivate and inspire.
+
+
