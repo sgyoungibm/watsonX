@@ -2,7 +2,7 @@
 
 These are demos for WatsonX, the presentation is under the "watsonx-workshop.pdf".
 
-## WatsonX Ai
+## WatsonX.ai
 
 Start by setting up your IBM Cloud account. The steps are located here:
 
@@ -12,4 +12,4 @@ Next, start the WatsonX.ai lab where you will expermient with different models a
 
 watsonx-ai/labs/Lab_1_Introduction_to_Generative_AI_final.docx
 
-## WatsonX gov 
+## WatsonX.gov 
