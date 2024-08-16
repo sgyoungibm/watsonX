@@ -1,6 +1,6 @@
 # WatsonX Demos
 
-These are demos for WatsonX
+These are demos for WatsonX, the presentation is under the "watsonx-workshop.pdf".
 
 ## WatsonX Ai
 
